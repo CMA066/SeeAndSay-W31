@@ -20,6 +20,6 @@ public class al1143662 extends Animal {
 
     @Override
     public String getDescription() {
-      return "Spotted with has bright colors, and bilateral symmetry.";
+      return "Spotted with bright colors, and bilateral symmetry.";
     }
 }
